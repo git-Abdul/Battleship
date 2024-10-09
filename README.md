@@ -6,6 +6,10 @@ Welcome to the **Battleship Game**! 🛳️ This is a **console-based game** wri
 
 ---
 
+![Banner](https://i.postimg.cc/7L6JjS3H/Battleship-Terminal.png)
+
+---
+
 ## 🕹️ How to Play
 
 - The game is played on a **7x12 grid** 📊.
