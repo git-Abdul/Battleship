@@ -120,6 +120,8 @@ Player 2: Enter row and column number: 1,5
 No ship found...
 ```
 
+ℹ️ Ship numbers are shown for demonstration purposes.
+
 ---
 
 ## 🚀 Future Improvements
