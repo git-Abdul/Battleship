@@ -6,7 +6,7 @@
 
 #### **Setting**: The vast and unpredictable ocean biomes.
 #### **Overview**: 
-The world has been peaceful since the signing of the **World Maritime Treaty**, but this calm is abruptly shattered by mysterious rogue fleets attacking civilian and military vessels across international waters. You, Captain **Diana Graves** (or choose a different name), are the commander of the elite naval unit **Task Force Triton**. Your team is deployed to track down these threats, but what seems like random acts of piracy soon reveals a deeper conspiracy.
+The world has been peaceful since the signing of the **World Maritime Treaty**, but this calm is abruptly shattered by mysterious rogue fleets attacking civilian and military vessels across international waters. You, Captain **Lieutenant Alex Hopper**, are the commander of the elite naval unit **Task Force Triton**. Your team is deployed to track down these threats, but what seems like random acts of piracy soon reveals a deeper conspiracy.
 
 #### **Missions**:
 
