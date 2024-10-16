@@ -27,6 +27,30 @@ Welcome to the **Battleship Game**! 🛳️ This is a **console-based game** wri
 
 ---
 
+## 🎯 Score rush:
+
+🎮 Game Rules
+
+Objective: Be the first player to score 3 points by discovering your opponent's ships 💥 and orbs 💖.
+- Gameplay:
+   - Players take turns guessing grid positions by entering row and column numbers.
+   - Hit a Ship: Gain 2 points.
+   - Hit a Bomb: Lose 1 point.
+   - Collect an Orb: Gain 1 point.
+- Miss: Opponent gets 1 point.
+- Winning: The first player to reach 3 points wins the round.
+
+✨ Features
+
+- Random Ship Placement: Each player’s grid is populated with hidden ships 🛳️ of random lengths.
+- Special Elements:
+     - Orbs 💖: Bonus items that give extra points if found.
+     - Bombs 💥: Hazardous items that decrease your score.
+- Interactive Grids: The game is played on a 9x14 grid, providing plenty of space for strategic gameplay.
+- Dynamic Scoring: Points are calculated based on the outcomes of the player’s guesses.
+
+---
+
 ## 🌟 Features
 
 - **🎲 Random Ship Placement**: Ships are randomly positioned horizontally, so no two games are the same!
